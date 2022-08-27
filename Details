@@ -1,0 +1,16 @@
+Topics:
+  OOP --> Object Oriented Programming
+    Creating real-time entity into a imaginary software object and developing on top of it is called OOP
+  function construction & use of this keyword
+  class construction
+  prototype
+
+  Doubts Clarifications:
+    Object Comparison
+      var a = { name: 'Person 1', age: 5 }
+      var b = { age: 5, name: 'Person 1' }
+    
+    Print Country name, regions and sub-regions
+
+  
+  
